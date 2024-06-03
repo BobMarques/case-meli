@@ -9,8 +9,7 @@ Ferramenta Utilizada: SQL.
 Passos Realizados:
 - Criação de Tabelas (Schema).
 - Elaboração do DER.
-- Consultas SQL.
-- Criação de tabelas temporárias para agrupar as vendas por vendedor e mês.
+- Consultas SQL para resolução de problemas.
 - Criação de um evento e procedure.
 
 ### Criação de Tabelas
