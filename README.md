@@ -26,7 +26,7 @@ Passos Realizados:
 - Criação de tabelas temporárias para agrupar as vendas por vendedor e mês.
 - Criação de um evento e procedure.
 
-## Desafio 3: Engeneer (Python + API)
+## Desafio 3: Engineer (Python + API)
 Objetivo: Analisar a oferta de produtos que respondem a diferentes buscas no site Mercadolibre.com.ar utilizando APIs, Python e bibliotecas necessárias.
 
 Ferramenta Utilizada: Python/Jupyter Notebook
