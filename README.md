@@ -29,7 +29,3 @@ Passos Realizados:
 - Analisando os gráficos do Dashboard, pode-se inferir que, por ser uma novidade, a assinatura de internet móvel cresceu exponencialmente até 2013, atingindo um ponto de maturidade. Esse comportamento é típico de novas tecnologias que inicialmente apresentam um crescimento rápido até alcançarem saturação no mercado.
 - Observa-se um comportamento inversamente proporcional entre a curva de assinaturas de internet móvel e as taxas de juros na Argentina. Quando as taxas de juros aumentam, as assinaturas tendem a diminuir, e quando as taxas de juros caem, o volume delas aumenta. Isso sugere uma correlação entre a assinatura de internet móvel e o momento economico do país. Com as taxa de juros balizadas pelas recente recessão econômica, caracterizada por uma queda no PIB e aumento na inflação.
 - Por fim, nota-se que a contratação de internet fixa é inelástica ao cenário econômico. Seguiu crescendo constantemente, semelhante ao crescimento da população total/urbana.
-
-
-## 2. Challenge Engineer - SQL
-
