@@ -1,1 +1,1 @@
-# <img src="https://www.gstatic.com/lamda/images/favicon_v1_150160cddff7f294ce30.svg" width="35px" alt="Meli Icon" /> Mercado Livre - Data & Analytics Challenge
+# <img src="https://companieslogo.com/img/orig/MELI-ec0c0e4f.png?t=1648156112" width="35px" alt="Meli Icon" /> Mercado Livre - Data & Analytics Challenge
