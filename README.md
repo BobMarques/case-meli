@@ -6,7 +6,7 @@ Objetivo: Criar um painel visualizando a evolução e crescimento da internet, u
 
 Ferramenta Utilizada: Tableau Public.
 
-Fontes de Dados: Dados obtidos do WorldBank e CEPAL (Comissão Econômica para a América Latina e o Caribe)
+Fontes de Dados: WorldBank e CEPAL (Comissão Econômica para a América Latina e o Caribe)
 
 Passos Realizados:
 - Coleta e limpeza dos dados.
